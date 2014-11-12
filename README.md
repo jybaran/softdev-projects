@@ -7,7 +7,7 @@ Period 5
 ## Main Projects
 
 ### Turbo Shame
-#### Jenny Baran, Eric Kolbusz, Fawn Wong, Elise Zlotnik
+#### Jenny Baran, Eric Kolbusz, Fawn Wong, Elise Zlotnikova
 #### Description
 Search engine. Attempts to answer questions (who/when questions only).
 #### https://github.com/mchaiken/updatedDataProj.git
