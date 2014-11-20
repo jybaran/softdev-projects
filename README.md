@@ -18,7 +18,7 @@ Stores a single blog using sqlite3. Allows for creation/viewing of posts & comme
 
 ### Octobear
 ##### Jenny Baran, Leon Frajmund
-Uses APIs to allow user to search something & get related images (from google) and music (from 8tracks).
+Uses the 8tracks API to allow user to search something & get related playlists.
 ##### https://github.com/jybaran/octobear.git
 
 ## Mini Projects
