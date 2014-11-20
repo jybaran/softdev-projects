@@ -23,12 +23,12 @@ Uses APIs to allow user to search something & get related images (from google) a
 
 ## Mini Projects
 
- * login
+ * ####login
   * Jenny Baran, Junhao Dong
   * 6/login/junhao_jenny
- * regexp
+ * ####regexp
   * Jenny Baran, Tina Lee 
 	* 6/regexp/jenny_tina
- * intro-proj 1
+ * ####intro-proj 1
   * Jenny Baran, Miranda Chaiken 
   * 6/intro-proj1/miranda_jenny
