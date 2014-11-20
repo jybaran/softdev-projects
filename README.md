@@ -8,19 +8,16 @@ Period 5
 
 ### Turbo Shame
 #### Jenny Baran, Eric Kolbusz, Fawn Wong, Elise Zlotnikova
-#### Description
 Search engine. Attempts to answer questions (who/when questions only).
 #### https://github.com/mchaiken/updatedDataProj.git
 
 ### Blog Thing
 #### Jenny Baran, Junhao Dong, Elia Portnoy, Eric Wong
-#### Description
 Stores a single blog using sqlite3. Allows for creation/viewing of posts & comments.
 #### https://github.com/junhaodong/blog-engine.git
 
 ### Octobear
 #### Jenny Baran, Leon Frajmund
-#### Description
 Uses APIs to allow user to search something & get related images (from google) and music (from 8tracks).
 #### https://github.com/jybaran/octobear.git
 
