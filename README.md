@@ -8,7 +8,7 @@ Period 5
 
 ### Event Narwhal
 ##### Jenny Baran, Sydney Caputo, Miranda Chaiken,Leon Frajmund
-Final Project. Event manager using Facebook & other APIs.
+Final project. Event manager using Facebook & other APIs.
 ##### https://github.com/mchaiken/Event-Narwhal
 
 ### Octobear
