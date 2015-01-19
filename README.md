@@ -27,13 +27,18 @@ Search engine. Attempts to answer questions (who/when questions only).
 ##### https://github.com/mchaiken/updatedDataProj.git
 
 ## Mini Projects
-
+ * invisible-thluffy
+  * Jenny Baran, Leon Frajmund
+  * 5/invisiblethluffy/leon_jenny
+ * to-do list
+  * Jenny Baran, Leon Frajmund
+  * 5/todo/leon_jenny
  * login
   * Jenny Baran, Junhao Dong
-  * 6/login/junhao_jenny
+  * 5/login/junhao_jenny
  * regexp
   * Jenny Baran, Tina Lee 
 	* 6/regexp/jenny_tina
  * intro-proj 1
   * Jenny Baran, Miranda Chaiken 
-  * 6/intro-proj1/miranda_jenny
+  * 5/intro-proj1/miranda_jenny
