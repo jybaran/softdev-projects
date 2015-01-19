@@ -38,7 +38,7 @@ Search engine. Attempts to answer questions (who/when questions only).
   * 5/login/junhao_jenny
  * regexp
   * Jenny Baran, Tina Lee 
-	* 6/regexp/jenny_tina
+	* 5/regexp/jenny_tina
  * intro-proj 1
   * Jenny Baran, Miranda Chaiken 
   * 5/intro-proj1/miranda_jenny
