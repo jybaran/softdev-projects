@@ -7,7 +7,7 @@ Period 5
 ## Main Projects
 
 ### Event Narwhal
-##### Jenny Baran, Sydney Caputo, Miranda Chaiken,Leon Frajmund
+##### Jenny Baran, Sydney Caputo, Miranda Chaiken, Leon Frajmund
 Final project. Event manager using Facebook & other APIs.
 ##### https://github.com/mchaiken/Event-Narwhal
 
